@@ -99,6 +99,8 @@ export namespace api
 
     export var buildServer = akala.buildServer;
     export var buildClient = akala.buildClient;
+    export var server = akala.server;
+    export var client = akala.client;
 
     export type ServerProxy<T extends akala.Api<any, any, any, any, any, any, any, any, any>> = akala.api.ServerProxy<T>;
     export type Server<T extends akala.Api<any, any, any, any, any, any, any, any, any>> = akala.api.Server<T>;
