@@ -34,7 +34,7 @@
   },
   "dependencies": {
     "@akala/commands": "^0.6.0",
-    "@akala/core": "^2.1.0",
+    "@akala/core": "^4.0.6",
     "@akala/json-rpc-ws": "^8.0.2",
     "body-parser": "^1.18.2",
     "chokidar": "^3.3.1",
